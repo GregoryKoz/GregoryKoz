@@ -22,11 +22,23 @@ software development, robotics and autonomous systems.
 
 ### 📌 Projects
 
-**Autonomous UAV Landing System**
+## 🤖[Autonomous UAV Landing](private for now - Engineering Thesis)
 - Vision-based autonomous landing research and development
 - UAV simulation and navigation
 
-[View Repository] https://github.com/GregoryKoz/RejestrZarejestrowanychPojazdow
+
+## 🚗 [Vehicle Registration System](https://github.com/GregoryKoz/RejestrZarejestrowanychPojazdow)
+**Technologies:** C++, Qt, OOP
+
+University project focused on object-oriented programming,
+demonstrating inheritance and polymorphism in C++.
+
+## ⚙️ [Assembly Language Project](https://github.com/GregoryKoz/ProjektJA)
+**Technologies:** Assembly, C++, Visual Studio
+
+University project focused on low-level programming
+and integration of assembly code with C++.
+Includes matrix multiplication implementations.
 
 ### 📫 Contact
 - Email: grzegorz.koz04@gmail.com
